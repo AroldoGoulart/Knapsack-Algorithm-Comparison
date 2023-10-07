@@ -99,7 +99,7 @@ python bar_chart_visualization.py
 
 You will see a bar chart similar to the example image below, comparing the results of the Dynamic Programming and Greedy Algorithm for each test case:
 
-![Knapsack Algorithm Comparison](example-output.png)
+![Knapsack Algorithm Comparison](data/results/output_20_instances.png)
 
 ### Contributing
 
