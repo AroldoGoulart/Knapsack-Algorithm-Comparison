@@ -1,0 +1,4 @@
+
+# remove caches .gitignore
+__pycache__/
+.DS_Store
