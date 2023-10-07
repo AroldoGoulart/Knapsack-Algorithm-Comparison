@@ -91,11 +91,7 @@ Here's an example of how to use this project to solve 20 instances of the Knapsa
 
 5. Execute the script.
 
-6. Run the `bar_chart_visualization.py` script to generate a bar chart visualization of the results:
-
-```bash
-python bar_chart_visualization.py
-```
+6. Run the `init.ipynb` script to generate a bar chart visualization of the results:
 
 You will see a bar chart similar to the example image below, comparing the results of the Dynamic Programming and Greedy Algorithm for each test case:
 
