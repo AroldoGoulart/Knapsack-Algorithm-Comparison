@@ -23,7 +23,7 @@ def load_test_cases(directory):
     # Listar todos os arquivos do diretório
     for filename in files_in_directory:
         # progresso da leitura %
-        print(f"Progress: {len(test_cases) / len(files_in_directory) * 100:.2f}%")
+        # print(f"Progress: {len(test_cases) / len(files_in_directory) * 100:.2f}%")
         if filename.endswith(".txt"):
             filepath = os.path.join(directory, filename)
             n, c, values, weights = read_instance(filepath)
